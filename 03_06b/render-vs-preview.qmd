@@ -8,7 +8,7 @@ execute:
 jupyter: python3
 ---
 
-Hello world
+Hello World
 
 Let's generate a few random numbers:
 
