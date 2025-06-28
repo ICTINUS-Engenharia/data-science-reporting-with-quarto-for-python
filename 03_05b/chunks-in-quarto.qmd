@@ -3,3 +3,8 @@ title: "Chunks in Quarto"
 format: html
 ---
 
+```{python}
+import random
+big_random=random.randint(1, 999) * 1E6
+big_random
+```

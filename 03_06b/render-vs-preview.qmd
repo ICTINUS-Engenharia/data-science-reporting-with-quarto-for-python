@@ -1,7 +1,14 @@
 ---
 title: "Quarto: Render vs Preview"
 format: html
+editor:
+  render-on-save: true
+execute: 
+  cache: true
+jupyter: python3
 ---
+
+Hello world
 
 Let's generate a few random numbers:
 
