@@ -13,7 +13,7 @@ To cross reference to an image you should prefix your tags with fig, eg  [@fig-l
 
 ![LiL logo with blue background.](lil-logo.jpg){#fig-lil-logo width=50%}
 
-To do this with an image tag you need a fenced div: [@]
+To do this with an image tag you need a fenced div: [@fig-lil-logo-alternative]
 
 ::: {#fig-lil-logo-alternative}
 <img src="lil-logo_alternative.png" width="50%"/>

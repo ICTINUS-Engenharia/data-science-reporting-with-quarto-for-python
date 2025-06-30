@@ -24,3 +24,15 @@ Combinding CSS and HTML together you have full control over image placement in y
 <p>Note that it can be confusing when you combine HTML and Markdown together. The previous sentence uses an implicit `<p>` tag from Markdown whereas this one is in an explicit tag</p>
 
 :::
+
+::: {.column-margin}
+![](lil-logo.png){width="100%"}
+
+*Teste realizado por Luciano Cardoso Vasconcelos*
+:::
+
+Este é um texto principal que continuará fluindo normalmente no documento.
+A imagem aparecerá flutuando na margem, e este texto principal ocupará
+a largura completa do documento, com exceção do espaço da margem.
+
+Você pode continuar escrevendo parágrafos e o texto fluirá naturalmente.
